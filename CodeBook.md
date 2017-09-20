@@ -17,3 +17,23 @@ For each record in the dataset it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
+# Task 1
+
+We downloaded files, assign columns and create one data set for next tasks, using files higer
+
+# Task 2
+
+Read needed files and subseting values with our conditions. Add colnames
+
+# Task 3
+
+Merge data with activity table include activity names
+
+# Task 4
+
+Appropriately labels the data set with descriptive variable names.
+
+# Task 5
+
+Using dplyr package we produce final tidy data set with mean of each variable activity and subject.
+After that write result into file result.txt
