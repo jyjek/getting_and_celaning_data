@@ -35,5 +35,4 @@ The data set was appropriately labeled with descriptive variable names.
 
 ## Task 5
 
-Using dplyr package I produce final tidy data set with mean of each variable activity and subject.
-After that write result into file result.txt
+Using dplyr package I produced final tidy data set with mean of each variable activity and subject. After that wrote result into file result.txt
