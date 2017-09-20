@@ -19,7 +19,7 @@ For each record in the dataset it is provided:
 
 ## Task 1
 
-We downloaded files, assign columns and create one data set for next tasks, using files higer
+The files was download, then I have made assigning for columns and create one more data set for next tasks, using files higher
 
 ## Task 2
 
@@ -35,5 +35,5 @@ Appropriately labels the data set with descriptive variable names.
 
 ## Task 5
 
-Using dplyr package we produce final tidy data set with mean of each variable activity and subject.
+Using dplyr package I produce final tidy data set with mean of each variable activity and subject.
 After that write result into file result.txt
