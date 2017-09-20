@@ -23,7 +23,7 @@ The files was download, then I have made assigning for columns and create one mo
 
 ## Task 2
 
-Read needed files and subseting values with our conditions. Add colnames
+The needed files was read and  then values was subsetting in order with our conditions, added colnames
 
 ## Task 3
 
@@ -31,7 +31,7 @@ Merge data with activity table include activity names
 
 ## Task 4
 
-Appropriately labels the data set with descriptive variable names.
+The data set was appropriately labeled with descriptive variable names.
 
 ## Task 5
 
